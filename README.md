@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=namkungkang&show_icons=true&hide_border=true)](https://github.com/namkungkang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namkungkang&layout=compact)](https://github.com/namkungkang)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
