@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/namkungkang/productive-box"/>
-   <img src="https://img.shields.io/github/stars/namkungkang/productive-box"/>
+   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
    <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
