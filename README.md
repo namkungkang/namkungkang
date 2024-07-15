@@ -45,7 +45,3 @@ Here are some ideas to get you started:
    <br/>
    Let's check out in gist!
 </p>
-
----
-
-> This project is inspired by an awesome pinned-gist project.<br/>Find more in https://github.com/matchai/awesome-pinned-gists
