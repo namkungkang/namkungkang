@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=namkungkang&show_icons=true&hide_border=true)](https://github.com/namkungkang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namkungkang&layout=compact)](https://github.com/namkungkang)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C++&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Javascrpit-3776AB?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Html-3776AB?style=flat-square&logo=Html&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Css-3776AB?style=flat-square&logo=Css&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/></a>
+## 💻 Tech Stacks
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C++&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=react&logoColor=61DAFB"/> 
 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
