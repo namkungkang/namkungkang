@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascrpit-3776AB?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Html-3776AB?style=flat-square&logo=HTML&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Css-3776AB?style=flat-square&logo=CSS&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=REACT&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Html-3776AB?style=flat-square&logo=Html&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Css-3776AB?style=flat-square&logo=Css&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/></a>
 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
