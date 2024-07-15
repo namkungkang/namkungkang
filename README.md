@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=namkungkang&show_icons=true&hide_border=true)](https://github.com/namkungkang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namkungkang&layout=compact)](https://github.com/namkungkang)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/javascrpit-3776AB?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/html-3776AB?style=flat-square&logo=Html&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/css-3776AB?style=flat-square&logo=Css&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/react-3776AB?style=flat-square&logo=REACT&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Javascrpit-3776AB?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Html-3776AB?style=flat-square&logo=Html&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Css-3776AB?style=flat-square&logo=Css&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=REACT&logoColor=white"/></a>
 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
