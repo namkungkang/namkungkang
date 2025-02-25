@@ -1,7 +1,7 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78731&background=D650FF00&width=435&lines=namkungkang's+GitHub" alt="Typing SVG" /></a>
 ## 📊 GitHub Stats
 <a href="https://hits.seeyoufarm.com">
-  <img margin-top="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/namkungkang&count_bg=%23F3F7F1&title_bg=%23A85D17&icon=datadog.svg&icon_color=%23EBE0E0&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/namkungkang&count_bg=%23F3F7F1&title_bg=%23A85D17&icon=datadog.svg&icon_color=%23EBE0E0&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/>
 </a>
 
 <div align="center">
