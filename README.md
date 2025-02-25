@@ -1,9 +1,7 @@
 ### 안녕하세요 성장하는 남궁강입니다.👋
 
 ## 📊 GitHub Stats
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamkungkang)](https://hits.seeyoufarm.com)
-<!--
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamkungkang%2Fhit-counter&count_bg=%23F3F7F1&title_bg=%23A85D17&icon=datadog.svg&icon_color=%23EBE0E0&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
 **namkungkang/namkungkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
