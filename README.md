@@ -26,6 +26,7 @@
 ## 🛠️ **Tools**
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazondynamodb-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mysql-003B57?style=flat-square&logo=mysql&logoColor=white"/>
 
 
