@@ -23,9 +23,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>   
 </p>
 
-## 🏆 Awards
+## 🏆 **Awards**
 <p>
-**UMC 7th Demoday 대상**
-
-  
+  **UMC 7th Demoday 대상**
 </p>
