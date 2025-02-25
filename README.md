@@ -25,7 +25,7 @@
 
 ## 🏆 Awards
 <p>
-UMC 7th DemoDay 대상
+**UMC 7th Demoday 대상**
 
   
 </p>
