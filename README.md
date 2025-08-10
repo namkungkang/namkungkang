@@ -33,3 +33,37 @@
 
 ## 🏆 **Awards**
 **＃ UMC 7th Demoday 대상**
+
+
+<img width="825" alt="Image" src="https://github.com/user-attachments/assets/e35bf514-0866-470d-adcb-96df9a1e24fe" />
+
+
+# 📌 프로젝트명 (Backend)
+>  CHIC-CHIC
+---
+
+## 📖 프로젝트 소개
+- Spring Boot 기반 REST API 서버
+- 주요 기능:
+  - 유저 설문조사 데이터 수집 및 저장
+  - OpenAI GPT API 연동하여 맞춤형 건강 점수 및 피드백 제공
+  - JWT 인증 기반 로그인/회원가입
+  - AWS S3 이미지 업로드
+  - RDS(MySQL) 기반 데이터 영속화
+
+---
+
+## 🌿 브랜치 전략
+> Git Flow 전략
+
+- **main** : 배포 브랜치
+- **develop** : 개발 통합 브랜치
+- **feature/** : 기능별 브랜치 (`feature/auth`, `feature/survey`)
+- **hotfix/** : 긴급 수정 브랜치
+- **release/** : 배포 전 QA 브랜치
+
+브랜치 흐름 예시:
+# BE
+CHICCHIC-BackEnd
+
+
