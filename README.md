@@ -1,9 +1,6 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78731&background=D650FF00&width=435&lines=namkungkang's+GitHub" alt="Typing SVG" /></a>
 
 
-## 📊 GitHub Stats
-
-
 
 ## 💻 Tech Stacks
 <p>
